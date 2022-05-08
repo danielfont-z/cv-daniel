@@ -154,6 +154,7 @@ p {
 
 .qui {
     padding-right: 30px;
+    margin-top: 10%;
 }
 
 .est {
@@ -203,6 +204,11 @@ p {
     max-height: 300px;
     margin-left: 45%;
     margin-top: 20px;
+}
+
+.youtube {
+    margin-left: 20%;
+    margin-bottom: 40px;
 }
 /* Clear floats after the columns */
 .row:after {
